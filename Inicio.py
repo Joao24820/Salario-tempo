@@ -1,0 +1,5 @@
+print('SEJA BEM VINDO(A)')
+nf = str(input('Informe o nome do funcionario(a): '))
+sa = float(input('Informe o salario atua do funcionario(a) {}\nR$ '.format(nf)))
+a = float(input('Informe quantos anos o senhor(a) tem de empresa: '))
+m = int(input('Informe quantos meses voce trabalha na empresa: '))
